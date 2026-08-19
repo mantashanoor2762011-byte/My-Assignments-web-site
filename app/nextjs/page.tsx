@@ -147,7 +147,7 @@ export default function HtmlCss() {
       {/* ================= BACK TO HOME ================= */}
 
       <div className="back-home-container">
-        <Link href="https://website-my-protfolio.vercel.app/" className="back-btn">
+        <Link href="/" className="back-btn">
           ← Back to Home
         </Link>
       </div>
